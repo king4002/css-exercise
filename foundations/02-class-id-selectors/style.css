@@ -1,0 +1,20 @@
+.sibs {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.sibs.alone {
+    font-size: 24px;
+}
+
+#unique {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+   background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
